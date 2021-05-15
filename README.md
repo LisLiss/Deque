@@ -1,2 +1,2 @@
 # Deque
-Project about deque and queue on C++
+Project about randomized deque and queue on C++
